@@ -11,6 +11,7 @@
 Waste collection schedules from service provider web sites are updated daily, derived from local ICS/iCal files, or generated from user-specified dates or regularly repeating date patterns. The Home Assistant built-in Calendar is automatically populated with schedules, and there is a high degree of flexibility in how information can be format and displayed in entity cards or pop-ups. The framework can easily be extended to support additional waste collection service providers, or other services which provide schedules.
 
 # Supported Service Providers
+## By Mudassir Alam
 
 Waste collection schedules in the following formats and countries are supported. Click on the section heading to view details of individual service providers.
 
